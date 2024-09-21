@@ -1,3 +1,7 @@
+/**
+ * The JavaScript code creates a simple bubble popping game where the player has to click on bubbles
+ * matching a randomly generated number within a time limit to increase their score.
+ */
 var timer = 60;
 var pbtm = document.querySelector("#pbottom");
 var HitVal = document.querySelector("#HitVal");
